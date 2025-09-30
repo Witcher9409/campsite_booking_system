@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="About us.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addemployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminhomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminprofile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Assetmanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="beachsidecamplogged.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Beachsidecamps.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Campeqipments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="campsite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="campsitelogged.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="changeuserinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Firstaid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="foodbeverage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hillsidecamplogged.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hillsidecamps.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="hoempage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lakeshorecamps.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lakeshorecampslogged.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="marketplace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mycart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="orderhistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="packages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="prefcamp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="prefcamplogged.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="publicpackages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Revenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="showdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="trendingcamplogged.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="trendingcampsite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Userdetailsadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="utilities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
